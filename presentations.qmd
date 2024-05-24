@@ -1,0 +1,37 @@
+---
+title: "Presentations"
+---
+
+## Future
+
+-   **Orthogonal learning of the average treatment effect, conditional on treatment-free outcome mean** \
+    *Poster at the [Bernoulli-IMS 11th World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org/){style="text-decoration: none"}, Bochum, Germany.\
+    *Aug 2024
+
+## Past
+
+-   **Assumption-Lean Quantile Regression** \[[slides](ACIC24_GB_ho.pdf){style="text-decoration: none"}\]**\
+    ***Contributed talk at the [American Causal Inference Conference](https://sci-info.org/annual-meeting/){style="text-decoration: none"}, Seattle, Washington, USA\
+    *May 2024
+
+-   **Assumption-Lean Quantile Regression\
+    ***Invited talk at [CMStatistics](https://www.cmstatistics.org/CMStatistics2023/){style="text-decoration: none"}, Berlin, Germany\
+    *Dec 2023
+
+-   **Assumption-Lean Quantile Regression\
+    ***Contributed talk at the [30th Annual Meeting of the RSSB](https://uclouvain.be/en/research-institutes/lidam/isba/rssb2023.html){style="text-decoration: none"}, Louvain-la-Neuve, Belgium\
+    *Oct 2023
+
+-   **Assumption-Lean Quantile Regression\
+    ***Contributed talk at the [European Meeting of Statisticians](https://ems2023.org/){style="text-decoration: none"}, Warsaw, Poland\
+    *Jul 2023
+
+## Seminars
+
+-   **Orthogonal learning of the average treatment effect, conditional on treatment-free outcome mean** \
+    *Causal inference seminar at the University of Washington, Seattle, Washington, USA\
+    *May 2024
+
+-   **Assumption-Lean Quantile Regression\
+    ***Work-in-Progress seminar at the University of Luxembourg, Esch-sur-Alzette, Luxembourg\
+    *Apr 2023

@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    background: secondary
+    search: true
+    left:
+      - href: index.qmd
+        text: About
+      - teaching.qmd
+      - presentations.qmd
+  page-footer: "&#169; Georgi Baklicharov, 2024"
+      
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+
+editor: visual
+

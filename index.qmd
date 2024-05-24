@@ -1,0 +1,46 @@
+---
+title: "Georgi Baklicharov"
+subtitle: |
+      | PhD Student
+      |
+      | Department of Applied Mathematics, Computer Science and Statistics 
+      | Ghent University
+image: mypic.jpg
+about:
+  template: solana
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:georgi.baklicharov@ugent.be
+    - icon: github
+      text: Github
+      href: https://github.com/gbaklicharov
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/georgi-baklicharov-17365b217/
+    - text: "{{< iconify fa6-brands:google-scholar >}} Google Scholar" 
+      href: https://scholar.google.be/citations?hl=en&user=e_GzXzoAAAAJ
+---
+
+I am a second year Ph.D. student in Statistical Data Analysis at [Ghent University](https://www.ugent.be/en){style="text-decoration: none"} under the supervision of Prof. Dr. [Stijn Vansteelandt](https://ai.ugent.be/people/StijnVansteelandt.en.html){style="text-decoration: none"} (Ghent University) and Prof. Dr. [Christophe Ley](https://math.uni.lu/midas/people/dp/?christopheley){style="text-decoration: none"} (University of Luxembourg). My research lies in the intersection of causal inference and debiased machine learning.
+
+## 
+
+## **Education**
+
+-   Ph.D. in Statistical Data Analysis, Ghent University, Belgium \
+    Aug 2022 - Aug 2026 (expected)
+
+-   MSc in Mathematics, Ghent University, Belgium \
+    Sept 2020 - June 2022
+
+-   BSc in Mathematics, Ghent University, Belgium \
+    Sept 2017 - June 2020
+
+## Preprints
+
+-   **Assumption-Lean Quantile Regression** \[[arxiv](https://arxiv.org/abs/2404.10495)\]\
+    [Baklicharov, G]{.underline}., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S. \
+    *arXiv preprint arXiv:2404.10495, 2024*

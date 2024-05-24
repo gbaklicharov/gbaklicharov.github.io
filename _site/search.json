@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Statistiek I, 2nd year B.Sc in Mathematics, Ghent University | Fall 2022, 2023\nStatistiek III: regressieanalyse, 3rd year B.Sc in Mathematics, Ghent University | Fall 2022, 2023\nStatistiek & Probabiliteit, 2nd year B.Sc in Computer Science, Ghent University | Fall 2022, 2023\nStatistiek I(A), 1st year B.Sc in Economics, Ghent University | Fall 2022, 2023\nWiskunde, 1st year B.Sc in Biomedical Sciences, Ghent University | Fall 2020, 2021 (as job student)"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Orthogonal learning of the average treatment effect, conditional on treatment-free outcome mean\nPoster at the Bernoulli-IMS 11th World Congress in Probability and Statistics, Bochum, Germany.\nAug 2024"
+  },
+  {
+    "objectID": "presentations.html#future",
+    "href": "presentations.html#future",
+    "title": "Presentations",
+    "section": "",
+    "text": "Orthogonal learning of the average treatment effect, conditional on treatment-free outcome mean\nPoster at the Bernoulli-IMS 11th World Congress in Probability and Statistics, Bochum, Germany.\nAug 2024"
+  },
+  {
+    "objectID": "presentations.html#past",
+    "href": "presentations.html#past",
+    "title": "Presentations",
+    "section": "Past",
+    "text": "Past\n\nAssumption-Lean Quantile Regression [slides]\nContributed talk at the American Causal Inference Conference, Seattle, Washington, USA\nMay 2024\nAssumption-Lean Quantile Regression\nInvited talk at CMStatistics, Berlin, Germany\nDec 2023\nAssumption-Lean Quantile Regression\nContributed talk at the 30th Annual Meeting of the RSSB, Louvain-la-Neuve, Belgium\nOct 2023\nAssumption-Lean Quantile Regression\nContributed talk at the European Meeting of Statisticians, Warsaw, Poland\nJul 2023"
+  },
+  {
+    "objectID": "presentations.html#seminars",
+    "href": "presentations.html#seminars",
+    "title": "Presentations",
+    "section": "Seminars",
+    "text": "Seminars\n\nOrthogonal learning of the average treatment effect, conditional on treatment-free outcome mean\nCausal inference seminar at the University of Washington, Seattle, Washington, USA\nMay 2024\nAssumption-Lean Quantile Regression\nWork-in-Progress seminar at the University of Luxembourg, Esch-sur-Alzette, Luxembourg\nApr 2023"
+  },
+  {
+    "objectID": "aboutme.html",
+    "href": "aboutme.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am a second year Ph.D. student in Statistical Data Analysis at Ghent University, advised by Prof. Dr. Stijn Vansteelandt (Ghent University) and Prof. Dr. Christophe Ley (University of Luxembourg)."
+  },
+  {
+    "objectID": "aboutme.html#education",
+    "href": "aboutme.html#education",
+    "title": "About me",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Statistical Data Analysis, Ghent University, Belgium | Aug 2022 - Aug 2026\nMSc in Mathematics, Ghent University, Belgium | Sept 2020 - June 2022\nBSc in Mathematics, Ghent University, Belgium | Sept 2017 - June 2020"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Georgi Baklicharov",
+    "section": "",
+    "text": "I am a second year Ph.D. student in Statistical Data Analysis at Ghent University under the supervision of Prof. Dr. Stijn Vansteelandt (Ghent University) and Prof. Dr. Christophe Ley (University of Luxembourg). My research lies in the intersection of causal inference and debiased machine learning."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Georgi Baklicharov",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Statistical Data Analysis, Ghent University, Belgium\nAug 2022 - Aug 2026 (expected)\nMSc in Mathematics, Ghent University, Belgium\nSept 2020 - June 2022\nBSc in Mathematics, Ghent University, Belgium\nSept 2017 - June 2020"
+  },
+  {
+    "objectID": "index.html#preprints",
+    "href": "index.html#preprints",
+    "title": "Georgi Baklicharov",
+    "section": "Preprints",
+    "text": "Preprints\n\nAssumption-Lean Quantile Regression [arxiv]\nBaklicharov, G., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S.\narXiv preprint arXiv:2404.10495, 2024"
+  }
+]

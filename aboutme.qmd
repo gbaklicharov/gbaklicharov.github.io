@@ -1,0 +1,19 @@
+---
+title: "About me"
+---
+
+I am a second year Ph.D. student in Statistical Data Analysis at Ghent University, advised by Prof. Dr. Stijn Vansteelandt (Ghent University) and Prof. Dr. Christophe Ley (University of Luxembourg).
+
+# 
+
+## Education
+
+-   Ph.D. in Statistical Data Analysis, Ghent University, Belgium \| Aug 2022 - Aug 2026
+
+-   MSc in Mathematics, Ghent University, Belgium \| Sept 2020 - June 2022
+
+-   BSc in Mathematics, Ghent University, Belgium \| Sept 2017 - June 2020
+
+## 
+
+## 
