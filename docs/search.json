@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Georgi Baklicharov",
-    "section": "",
-    "text": "I am a second year Ph.D. student in Statistical Data Analysis at Ghent University under the supervision of Prof. Dr. Stijn Vansteelandt (Ghent University) and Prof. Dr. Christophe Ley (University of Luxembourg). My research lies in the intersection of causal inference and debiased machine learning."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Georgi Baklicharov",
-    "section": "Education",
-    "text": "Education\n\nPh.D. in Statistical Data Analysis, Ghent University, Belgium\nAug 2022 - Aug 2026 (expected)\nMSc in Mathematics, Ghent University, Belgium\nSept 2020 - June 2022\nBSc in Mathematics, Ghent University, Belgium\nSept 2017 - June 2020"
-  },
-  {
-    "objectID": "index.html#preprints",
-    "href": "index.html#preprints",
-    "title": "Georgi Baklicharov",
-    "section": "Preprints",
-    "text": "Preprints\n\nAssumption-Lean Quantile Regression [arxiv]\nBaklicharov, G., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S.\narXiv preprint arXiv:2404.10495, 2024"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -68,5 +47,26 @@
     "title": "About me",
     "section": "Education",
     "text": "Education\n\nPh.D. in Statistical Data Analysis, Ghent University, Belgium | Aug 2022 - Aug 2026\nMSc in Mathematics, Ghent University, Belgium | Sept 2020 - June 2022\nBSc in Mathematics, Ghent University, Belgium | Sept 2017 - June 2020"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Georgi Baklicharov",
+    "section": "",
+    "text": "I am a second year Ph.D. student in Statistical Data Analysis at Ghent University under the supervision of Prof. Dr. Stijn Vansteelandt (Ghent University) and Prof. Dr. Christophe Ley (University of Luxembourg). My research lies in the intersection of causal inference and debiased machine learning."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Georgi Baklicharov",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Statistical Data Analysis, Ghent University, Belgium\nAug 2022 - Aug 2026 (expected)\nMSc in Mathematics, Ghent University, Belgium\nSept 2020 - June 2022\nBSc in Mathematics, Ghent University, Belgium\nSept 2017 - June 2020"
+  },
+  {
+    "objectID": "index.html#preprints",
+    "href": "index.html#preprints",
+    "title": "Georgi Baklicharov",
+    "section": "Preprints",
+    "text": "Preprints\n\nAssumption-Lean Quantile Regression [arxiv]\nBaklicharov, G., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S.\narXiv preprint arXiv:2404.10495, 2024"
   }
 ]
