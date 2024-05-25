@@ -1,7 +1,7 @@
 ---
 title: "Georgi Baklicharov"
 subtitle: |
-      | PhD Student
+      | Ph.D. Student
       |
       | Department of Applied Mathematics, Computer Science and Statistics 
       | Ghent University
@@ -30,17 +30,17 @@ I am a second year Ph.D. student in Statistical Data Analysis at [Ghent Universi
 
 ## **Education**
 
--   Ph.D. in Statistical Data Analysis, Ghent University, Belgium \
-    Aug 2022 - Aug 2026 (expected)
+-   Ph.D. in Statistical Data Analysis, Ghent University, Belgium\
+    Aug 2022 - Aug 2028 (expected)
 
--   MSc in Mathematics, Ghent University, Belgium \
+-   MSc in Mathematics, Ghent University, Belgium\
     Sept 2020 - June 2022
 
--   BSc in Mathematics, Ghent University, Belgium \
+-   BSc in Mathematics, Ghent University, Belgium\
     Sept 2017 - June 2020
 
 ## Preprints
 
 -   **Assumption-Lean Quantile Regression** \[[arxiv](https://arxiv.org/abs/2404.10495)\]\
-    [Baklicharov, G]{.underline}., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S. \
+    [Baklicharov, G]{.underline}., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S.\
     *arXiv preprint arXiv:2404.10495, 2024*
