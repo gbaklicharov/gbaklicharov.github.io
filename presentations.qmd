@@ -4,7 +4,7 @@ title: "Presentations"
 
 ## Future
 
--   **Orthogonal learning of the average treatment effect, conditional on treatment-free outcome mean** \
+-   **Orthogonal learning of the average treatment effect, conditional on treatment-free outcome mean**\
     *Poster at the [Bernoulli-IMS 11th World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org/){style="text-decoration: none"}, Bochum, Germany.\
     *Aug 2024
 
@@ -28,7 +28,7 @@ title: "Presentations"
 
 ## Seminars
 
--   **Orthogonal learning of the average treatment effect, conditional on treatment-free outcome mean** \
+-   **Orthogonal learning of the average treatment effect, conditional on treatment-free outcome mean**\
     *Causal inference seminar at the University of Washington, Seattle, Washington, USA\
     *May 2024
 
