@@ -3,16 +3,16 @@ title: "Teaching"
 ---
 
 -   Statistics I, 2nd year B.Sc in Mathematics, Ghent University\
-    *Fall 2022, 2023* \[taught in Dutch\]
+    *Fall 2022, 2023, 2024* \[taught in Dutch\]
 
 -   Statistics III: regression analysis, 3rd year B.Sc in Mathematics, Ghent University\
-    *Fall 2022, 2023* \[taught in Dutch\]
+    *Fall 2022, 2023, 2024* \[taught in Dutch\]
 
 -   Statistics & Probability, 2nd year B.Sc in Computer Science, Ghent University\
-    *Fall 2022, 2023* \[taught in Dutch\]
+    *Fall 2022, 2023, 2024* \[taught in Dutch\]
 
 -   Statistics I(A), 1st year B.Sc in Economics, Ghent University\
-    *Fall 2022, 2023* \[taught in Dutch\]
+    *Fall 2022, 2023, 2024* \[taught in Dutch\]
 
 -   Mathematics, 1st year B.Sc in Biomedical Sciences, Ghent University\
     *Fall 2020, 2021* \[taught in Dutch\] (as job student)
