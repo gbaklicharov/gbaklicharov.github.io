@@ -4,6 +4,10 @@ title: "Presentations"
 
 ## Future
 
+-   **Assumption-free analysis of randomized trials with intercurrent events**\
+    *Contributed talk at the [European Causal Inference Meeting](https://www.eurocim.org/), Ghent, Belgium.\
+    *Apr 2025
+
 ## Past
 
 -   **Orthogonal learning of the average treatment effect, conditional on treatment-free outcome mean**\
