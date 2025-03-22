@@ -4,7 +4,7 @@ title: "Presentations"
 
 ## Future
 
--   **Assumption-free analysis of randomized trials with intercurrent events**\
+-   **Nearly Assumption-Free Methods for Treatment Effect Testing in Randomized Trials with Intercurrent Events**\
     *Contributed talk at the [European Causal Inference Meeting](https://www.eurocim.org/){style="text-decoration: none"}, Ghent, Belgium.\
     *Apr 2025
 
