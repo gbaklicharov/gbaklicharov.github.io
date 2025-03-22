@@ -3,7 +3,7 @@ title: "Georgi Baklicharov"
 subtitle: |
       | Ph.D. Student
       |
-      | Department of Applied Mathematics, Computer Science and Statistics 
+      | Department of Mathematics, Computer Science and Statistics 
       | Ghent University
 image: mypic.jpg
 about:
