@@ -10,8 +10,10 @@ website:
     left:
       - href: index.qmd
         text: About
-      - presentations.qmd
-      - teaching.qmd
+      - href: presentations.qmd
+        text: Presentations
+      - href: teaching.qmd
+        text: Teaching
   page-footer: "&#169; Georgi Baklicharov, 2024"
       
 
