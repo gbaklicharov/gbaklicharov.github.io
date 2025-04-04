@@ -1,1 +1,5 @@
 /* css styles */
+.navbar-nav {
+    display: flex;
+    flex-direction: row !important;
+}
