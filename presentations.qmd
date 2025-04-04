@@ -4,7 +4,7 @@ title: "Presentations"
 
 ## Future
 
--   **Nearly Assumption-Free Methods for Treatment Effect Testing in Randomized Trials with Intercurrent Events**\
+-   **Can Treatment Effect Testing in Trials with ICEs be Nearly Assumption-Free?**\
     *Contributed talk at the [European Causal Inference Meeting](https://www.eurocim.org/){style="text-decoration: none"}, Ghent, Belgium.\
     *Apr 2025
 
