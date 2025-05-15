@@ -5,10 +5,16 @@ title: "Presentations"
 ## Future
 
 -   **Can Treatment Effect Testing in Trials with ICEs be Nearly Assumption-Free?**\
+    *Contributed talk at the [46^th^ Annual Conference of the International Society for Clinical Biostatistics (ISCB)](https://iscb2025.info/){target="blank" style="text-decoration: none"}, Basel, Switzerland.\
+    *Aug 2025
+
+## Past
+
+-   **Can Treatment Effect Testing in Trials with ICEs be Nearly Assumption-Free?**\
     *Contributed talk at the [European Causal Inference Meeting](https://www.eurocim.org/){target="blank" style="text-decoration: none"}, Ghent, Belgium.\
     *Apr 2025
 
-## Past
+<!-- -->
 
 -   **Orthogonal learning of the average treatment effect, conditional on treatment-free outcome mean**\
     *Poster at the [Bernoulli-IMS 11th World Congress in Probability and Statistics](https://www.bernoulli-ims-worldcongress2024.org/){target="blank" style="text-decoration: none"}, Bochum, Germany.\
