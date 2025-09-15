@@ -42,6 +42,6 @@ I am a fourth-year Ph.D. student in Statistical Data Analysis at [Ghent Universi
 -   **Assumption-Lean Quantile Regression** \[[arxiv](https://arxiv.org/abs/2404.10495){target="blank"}\]\
     [Baklicharov, G]{.underline}., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S.\
     *arXiv preprint arXiv:2404.10495, 2024*
--   **Weakening assumptions in the evaluation of treatment effects in longitudinal randomized trials with truncation by death or other intercurrent events.** \[[arxiv](https://arxiv.org/pdf/2509.10067){target="blank"}\]
-    Baklicharov, G., Van Lanker, K., and Vansteelandt, S.\
+-   **Weakening assumptions in the evaluation of treatment effects in longitudinal randomized trials with truncation by death or other intercurrent events.** \[[arxiv](#0){target="blank"}\]\
+    [Baklicharov, G.]{.underline}, Van Lanker, K., and Vansteelandt, S.\
     *arXiv preprint arXiv:2509.10067, 2025*
