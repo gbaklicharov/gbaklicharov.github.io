@@ -4,12 +4,13 @@ title: "Presentations"
 
 ## Future
 
--   **Can Treatment Effect Testing in Trials with ICEs be Nearly Assumption-Free?**\
-    *Contributed talk at the [46^th^ Annual Conference of the International Society for Clinical Biostatistics (ISCB)](https://iscb2025.info/){target="blank" style="text-decoration: none"}, Basel, Switzerland.\
-    *Aug 2025
+-   
 
 ## Past
 
+-   **Can Treatment Effect Testing in Trials with ICEs be Nearly Assumption-Free?** \[[slides](ISCB25_GB.pdf){target="blank" style="text-decoration: none"}\]\
+    *Contributed talk at the [46^th^ Annual Conference of the International Society for Clinical Biostatistics (ISCB)](https://iscb2025.info/){target="blank" style="text-decoration: none"}, Basel, Switzerland.\
+    *Aug 2025
 -   **Can Treatment Effect Testing in Trials with ICEs be Nearly Assumption-Free?**\
     *Contributed talk at the [European Causal Inference Meeting](https://www.eurocim.org/){target="blank" style="text-decoration: none"}, Ghent, Belgium.\
     *Apr 2025
