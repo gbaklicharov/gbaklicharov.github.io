@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,12 +34,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-aa46d88f44b8608d880805adbee39327.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-e24376d01b5cb1720e929fc004be740a.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -147,7 +147,7 @@ Ghent University</div><p></p>
   </a>
 </div>
       <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<p>I am a third-year Ph.D.&nbsp;student in Statistical Data Analysis at <a href="https://www.ugent.be/en" target="blank" style="text-decoration: none">Ghent University</a> under the supervision of Prof.&nbsp;Dr.&nbsp;<a href="https://users.ugent.be/~svsteela/" target="blank" style="text-decoration: none">Stijn Vansteelandt</a> (Ghent University) and Prof.&nbsp;Dr.&nbsp;<a href="https://math.uni.lu/midas/people/dp/?christopheley" target="blank" style="text-decoration: none">Christophe Ley</a> (University of Luxembourg). My research lies at the intersection of causal inference and debiased machine learning. If you want to get in touch, please don’t hesitate to contact me.</p>
+<p>I am a fourth-year Ph.D.&nbsp;student in Statistical Data Analysis at <a href="https://www.ugent.be/en" target="blank" style="text-decoration: none">Ghent University</a> under the supervision of Prof.&nbsp;Dr.&nbsp;<a href="https://users.ugent.be/~svsteela/" target="blank" style="text-decoration: none">Stijn Vansteelandt</a> (Ghent University) and Prof.&nbsp;Dr.&nbsp;<a href="https://math.uni.lu/midas/people/dp/?christopheley" target="blank" style="text-decoration: none">Christophe Ley</a> (University of Luxembourg). My research lies at the intersection of causal inference and debiased machine learning. If you want to get in touch, please don’t hesitate to contact me.</p>
 <section id="education" class="level2">
 <h2 data-anchor-id="education"><strong>Education</strong></h2>
 <ul>
@@ -165,6 +165,8 @@ Sept 2017 - June 2020</p></li>
 <li><strong>Assumption-Lean Quantile Regression</strong> [<a href="https://arxiv.org/abs/2404.10495" target="blank">arxiv</a>]<br>
 <u>Baklicharov, G</u>., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S.<br>
 <em>arXiv preprint arXiv:2404.10495, 2024</em></li>
+<li><strong>Weakening assumptions in the evaluation of treatment effects in longitudinal randomized trials with truncation by death or other intercurrent events.</strong> [<a href="https://arxiv.org/pdf/2509.10067" target="blank">arxiv</a>] Baklicharov, G., Van Lanker, K., and Vansteelandt, S.<br>
+<em>arXiv preprint arXiv:2509.10067, 2025</em></li>
 </ul>
 
 
@@ -395,8 +397,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -507,7 +507,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

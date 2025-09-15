@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Georgi Baklicharov",
     "section": "",
-    "text": "I am a third-year Ph.D. student in Statistical Data Analysis at Ghent University under the supervision of Prof. Dr. Stijn Vansteelandt (Ghent University) and Prof. Dr. Christophe Ley (University of Luxembourg). My research lies at the intersection of causal inference and debiased machine learning. If you want to get in touch, please don’t hesitate to contact me."
+    "text": "I am a fourth-year Ph.D. student in Statistical Data Analysis at Ghent University under the supervision of Prof. Dr. Stijn Vansteelandt (Ghent University) and Prof. Dr. Christophe Ley (University of Luxembourg). My research lies at the intersection of causal inference and debiased machine learning. If you want to get in touch, please don’t hesitate to contact me."
   },
   {
     "objectID": "index.html#education",
@@ -67,6 +67,6 @@
     "href": "index.html#preprints",
     "title": "Georgi Baklicharov",
     "section": "Preprints",
-    "text": "Preprints\n\nAssumption-Lean Quantile Regression [arxiv]\nBaklicharov, G., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S.\narXiv preprint arXiv:2404.10495, 2024"
+    "text": "Preprints\n\nAssumption-Lean Quantile Regression [arxiv]\nBaklicharov, G., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S.\narXiv preprint arXiv:2404.10495, 2024\nWeakening assumptions in the evaluation of treatment effects in longitudinal randomized trials with truncation by death or other intercurrent events. [arxiv] Baklicharov, G., Van Lanker, K., and Vansteelandt, S.\narXiv preprint arXiv:2509.10067, 2025"
   }
 ]

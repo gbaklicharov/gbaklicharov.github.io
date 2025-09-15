@@ -24,7 +24,7 @@ about:
       href: https://scholar.google.be/citations?hl=en&user=e_GzXzoAAAAJ
 ---
 
-I am a third-year Ph.D. student in Statistical Data Analysis at [Ghent University](https://www.ugent.be/en){target="blank" style="text-decoration: none"} under the supervision of Prof. Dr. [Stijn Vansteelandt](https://users.ugent.be/~svsteela/){target="blank" style="text-decoration: none"} (Ghent University) and Prof. Dr. [Christophe Ley](https://math.uni.lu/midas/people/dp/?christopheley){target="blank" style="text-decoration: none"} (University of Luxembourg). My research lies at the intersection of causal inference and debiased machine learning. If you want to get in touch, please don't hesitate to contact me.
+I am a fourth-year Ph.D. student in Statistical Data Analysis at [Ghent University](https://www.ugent.be/en){target="blank" style="text-decoration: none"} under the supervision of Prof. Dr. [Stijn Vansteelandt](https://users.ugent.be/~svsteela/){target="blank" style="text-decoration: none"} (Ghent University) and Prof. Dr. [Christophe Ley](https://math.uni.lu/midas/people/dp/?christopheley){target="blank" style="text-decoration: none"} (University of Luxembourg). My research lies at the intersection of causal inference and debiased machine learning. If you want to get in touch, please don't hesitate to contact me.
 
 ## **Education**
 
@@ -42,3 +42,6 @@ I am a third-year Ph.D. student in Statistical Data Analysis at [Ghent Universit
 -   **Assumption-Lean Quantile Regression** \[[arxiv](https://arxiv.org/abs/2404.10495){target="blank"}\]\
     [Baklicharov, G]{.underline}., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S.\
     *arXiv preprint arXiv:2404.10495, 2024*
+-   **Weakening assumptions in the evaluation of treatment effects in longitudinal randomized trials with truncation by death or other intercurrent events.** \[[arxiv](https://arxiv.org/pdf/2509.10067){target="blank"}\]
+    Baklicharov, G., Van Lanker, K., and Vansteelandt, S.\
+    *arXiv preprint arXiv:2509.10067, 2025*
