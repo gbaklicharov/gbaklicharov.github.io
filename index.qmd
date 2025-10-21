@@ -44,4 +44,5 @@ I am a fourth-year Ph.D. student in Statistical Data Analysis at [Ghent Universi
     *arXiv preprint arXiv:2509.10067, 2025*
 -   **Assumption-Lean Quantile Regression** \[[arxiv](https://arxiv.org/abs/2404.10495){target="blank"}\]\
     [Baklicharov, G]{.underline}., Ley, C., Gorasso, V., Devleesschauwer, B., and Vansteelandt, S.\
-    *arXiv preprint arXiv:2404.10495, 2024*
+    *arXiv preprint arXiv:2404.10495, 2024\
+    (Forthcoming in Statistica Sinica)*
